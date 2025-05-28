@@ -48,3 +48,13 @@ Apasionado por crear software eficiente, escalable y alineado a objetivos reales
 Si estás buscando soluciones técnicas reales, con alto estándar de calidad y foco en eficiencia, ¡hablemos!
 
 📧 hola@gcardenas.cl
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Developer-red?style=for-the-badge&logo=laravel" alt="Laravel Developer"/>
+  <img src="https://img.shields.io/badge/.NET-Developer-blueviolet?style=for-the-badge&logo=dotnet" alt=".NET Developer"/>
+  <img src="https://img.shields.io/badge/API%20Design-Expert-green?style=for-the-badge&logo=postman" alt="API Expert"/>
+  <img src="https://img.shields.io/badge/SOLID-Principles-black?style=for-the-badge" alt="SOLID Principles"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Active-brightgreen?style=for-the-badge&logo=github" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Made%20in-Chile-blue?style=for-the-badge&logoColor=white" alt="Made in Chile"/>
+</p>
